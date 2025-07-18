@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/parth-awasthi/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/parth-awasthi/Leetcode/tree/master/0010-regular-expression-matching) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/parth-awasthi/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [3930-longest-palindromic-path-in-graph](https://github.com/parth-awasthi/Leetcode/tree/master/3930-longest-palindromic-path-in-graph) |
 ## Stack
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/parth-awasthi/Leetcode/tree/master/0010-regular-expression-matching) |
+| [3930-longest-palindromic-path-in-graph](https://github.com/parth-awasthi/Leetcode/tree/master/3930-longest-palindromic-path-in-graph) |
 ## Recursion
 |  |
 | ------- |
@@ -59,4 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/parth-awasthi/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3930-longest-palindromic-path-in-graph](https://github.com/parth-awasthi/Leetcode/tree/master/3930-longest-palindromic-path-in-graph) |
+## Graph
+|  |
+| ------- |
+| [3930-longest-palindromic-path-in-graph](https://github.com/parth-awasthi/Leetcode/tree/master/3930-longest-palindromic-path-in-graph) |
 <!---LeetCode Topics End-->
